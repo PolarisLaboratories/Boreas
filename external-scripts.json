@@ -10,6 +10,5 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-travis-ci",
-  "hubot-aws",
-  "hubot-auth"
+  "hubot-aws"
 ]
